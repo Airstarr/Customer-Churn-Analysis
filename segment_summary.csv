@@ -1,0 +1,7 @@
+segment,customers,is_churned,churn_rate,median_ltv,total_revenue
+At risk,469,170,36.2,1220.26,774875.621
+Champions,482,0,0.0,3970.185,4406718.18
+High value lapsed,267,160,59.9,977.77,416382.991
+Lost,1426,1119,78.5,296.445,624187.691
+Loyal customers,1037,0,0.0,1257.68,2170313.141
+Promising,657,0,0.0,353.27,494731.27
